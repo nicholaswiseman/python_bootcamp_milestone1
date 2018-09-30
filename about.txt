@@ -1,0 +1,2 @@
+The first milestone project for Jose Portillo's Udemy course: Complete Python Bootcamp.
+
